@@ -27,18 +27,15 @@ Homepage {% endblock %} {% block content %}
     <div class="difficulty-buttons">
       <a href="{% url 'quiz:game' 'beginner' %}" class="btn btn-beginner">
         <span class="level-name">Beginner</span>
-        <span class="level-description">Short, common words</span>
       </a>
       <a
         href="{% url 'quiz:game' 'intermediate' %}"
         class="btn btn-intermediate"
       >
         <span class="level-name">Intermediate</span>
-        <span class="level-description">Medium-length words</span>
       </a>
       <a href="{% url 'quiz:game' 'advanced' %}" class="btn btn-advanced">
         <span class="level-name">Advanced</span>
-        <span class="level-description">Complex, longer words</span>
       </a>
     </div>
   </div>
