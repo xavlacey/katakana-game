@@ -208,5 +208,317 @@
     "romaji": "demonsutoreeshon",
     "english": "demonstration",
     "difficulty": "advanced"
+  },
+  {
+    "katakana": "アフリカ",
+    "romaji": "afurika",
+    "english": "africa",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "アジア",
+    "romaji": "ajia",
+    "english": "asia",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "アクセサリー",
+    "romaji": "akusesarii",
+    "english": "accessory",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "アナウンサー",
+    "romaji": "anaunsaa",
+    "english": "announcer",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "アルバイト",
+    "romaji": "arubaito",
+    "english": "part-time job",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "アルコール",
+    "romaji": "arukooru",
+    "english": "alcohol",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "バス",
+    "romaji": "basu",
+    "english": "bus",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "バター",
+    "romaji": "bataa",
+    "english": "butter",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "ベッド",
+    "romaji": "beddo",
+    "english": "bed",
+    "difficulty": "advanced"
+  },
+  {
+    "katakana": "ベル",
+    "romaji": "beru",
+    "english": "bell",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "ビル",
+    "romaji": "biru",
+    "english": "building",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "ボールペン",
+    "romaji": "boorupen",
+    "english": "ball-point pen",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "ボタン",
+    "romaji": "botan",
+    "english": "button",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "チェック",
+    "romaji": "chekku",
+    "english": "check",
+    "difficulty": "advanced"
+  },
+  {
+    "katakana": "デパート",
+    "romaji": "depaato",
+    "english": "department store",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "ドア",
+    "romaji": "doa",
+    "english": "door",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "エスカレーター",
+    "romaji": "esukareetaa",
+    "english": "escalator",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "ファックス",
+    "romaji": "fakkusu",
+    "english": "fax",
+    "difficulty": "advanced"
+  },
+  {
+    "katakana": "フィルム",
+    "romaji": "firumu",
+    "english": "film",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "フォーク",
+    "romaji": "fooku",
+    "english": "fork",
+    "difficulty": "advanced"
+  },
+  {
+    "katakana": "ガラス",
+    "romaji": "garasu",
+    "english": "glass",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "ガソリン",
+    "romaji": "gasorin",
+    "english": "gasoline",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "ギター",
+    "romaji": "gitaa",
+    "english": "guitar",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "グラム",
+    "romaji": "guramu",
+    "english": "gram",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "ハンドバッグ",
+    "romaji": "handobaggu",
+    "english": "handbag",
+    "difficulty": "advanced"
+  },
+  {
+    "katakana": "ハンカチ",
+    "romaji": "hankachi",
+    "english": "handkerchief",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "ジャム",
+    "romaji": "jamu",
+    "english": "jam",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "カーテン",
+    "romaji": "kaaten",
+    "english": "curtain",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "カップ",
+    "romaji": "kappu",
+    "english": "cup",
+    "difficulty": "advanced"
+  },
+  {
+    "katakana": "カレー",
+    "romaji": "karee",
+    "english": "curry",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "ケーキ",
+    "romaji": "keeki",
+    "english": "cake",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "キログラム",
+    "romaji": "kiro guramu",
+    "english": "kilogram",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "キロメートル",
+    "romaji": "kiro meetoru",
+    "english": "kilometer",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "コンピュータ",
+    "romaji": "konpyuuta",
+    "english": "computer",
+    "difficulty": "advanced"
+  },
+  {
+    "katakana": "コンサート",
+    "romaji": "konsaato",
+    "english": "concert",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "コーヒー",
+    "romaji": "koohii",
+    "english": "coffee",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "コート",
+    "romaji": "kooto",
+    "english": "coat",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "コピー",
+    "romaji": "kopii",
+    "english": "copy",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "コップ",
+    "romaji": "koppu",
+    "english": "glass",
+    "difficulty": "advanced"
+  },
+  {
+    "katakana": "クラス",
+    "romaji": "kurasu",
+    "english": "class",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "マッチ",
+    "romaji": "macchi",
+    "english": "match",
+    "difficulty": "advanced"
+  },
+  {
+    "katakana": "メートル",
+    "romaji": "meetoru",
+    "english": "meter",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "ノート",
+    "romaji": "nooto",
+    "english": "notebook",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "ニュース",
+    "romaji": "nyuusu",
+    "english": "news",
+    "difficulty": "advanced"
+  },
+  {
+    "katakana": "オートバイ",
+    "romaji": "ootobai",
+    "english": "motorcycle",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "パーティー",
+    "romaji": "paatii",
+    "english": "party",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "パート",
+    "romaji": "paato",
+    "english": "part-time",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "パン",
+    "romaji": "pan",
+    "english": "bread",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "ページ",
+    "romaji": "peeji",
+    "english": "page",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "ペン",
+    "romaji": "pen",
+    "english": "pen",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "ペット",
+    "romaji": "petto",
+    "english": "pet",
+    "difficulty": "advanced"
+  },
+  {
+    "katakana": "ピアノ",
+    "romaji": "piano",
+    "english": "piano",
+    "difficulty": "intermediate"
   }
 ]
