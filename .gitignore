@@ -49,3 +49,4 @@ htmlcov/
 
 # Scraped data (optional - remove if you want to keep)
 scraped_katakana_words.json
+staticfiles/
