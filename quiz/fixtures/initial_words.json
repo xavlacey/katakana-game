@@ -1,0 +1,212 @@
+[
+  {
+    "katakana": "カメラ",
+    "romaji": "kamera",
+    "english": "camera",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "ホテル",
+    "romaji": "hoteru",
+    "english": "hotel",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "アメリカ",
+    "romaji": "amerika",
+    "english": "america",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "トマト",
+    "romaji": "tomato",
+    "english": "tomato",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "ネクタイ",
+    "romaji": "nekutai",
+    "english": "necktie",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "メモ",
+    "romaji": "memo",
+    "english": "memo",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "ナイフ",
+    "romaji": "naifu",
+    "english": "knife",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "テスト",
+    "romaji": "tesuto",
+    "english": "test",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "アイス",
+    "romaji": "aisu",
+    "english": "ice",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "マスク",
+    "romaji": "masuku",
+    "english": "mask",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "タイル",
+    "romaji": "tairu",
+    "english": "tile",
+    "difficulty": "beginner"
+  },
+  {
+    "katakana": "レストラン",
+    "romaji": "resutoran",
+    "english": "restaurant",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "ソファ",
+    "romaji": "sofa",
+    "english": "sofa",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "エレベーター",
+    "romaji": "erebeetaa",
+    "english": "elevator",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "アイスクリーム",
+    "romaji": "aisukuriimu",
+    "english": "ice cream",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "カレンダー",
+    "romaji": "karendaa",
+    "english": "calendar",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "プリンター",
+    "romaji": "purintaa",
+    "english": "printer",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "ヘリコプター",
+    "romaji": "herikoputaa",
+    "english": "helicopter",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "オーケストラ",
+    "romaji": "ookesutora",
+    "english": "orchestra",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "アドミニストレーター",
+    "romaji": "adominisutreetaa",
+    "english": "administrator",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "コンビニエンスストア",
+    "romaji": "konbiniensu sutoa",
+    "english": "convenience store",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "モチベーション",
+    "romaji": "mochibeeshon",
+    "english": "motivation",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "アパート",
+    "romaji": "apaato",
+    "english": "apartment",
+    "difficulty": "intermediate"
+  },
+  {
+    "katakana": "スーパーマーケット",
+    "romaji": "suupaamaaketto",
+    "english": "supermarket",
+    "difficulty": "advanced"
+  },
+  {
+    "katakana": "コンピューター",
+    "romaji": "konpyuutaa",
+    "english": "computer",
+    "difficulty": "advanced"
+  },
+  {
+    "katakana": "チョコレート",
+    "romaji": "chokoreeto",
+    "english": "chocolate",
+    "difficulty": "advanced"
+  },
+  {
+    "katakana": "サンドイッチ",
+    "romaji": "sandoicchi",
+    "english": "sandwich",
+    "difficulty": "advanced"
+  },
+  {
+    "katakana": "プロフェッショナル",
+    "romaji": "purofesshonaru",
+    "english": "professional",
+    "difficulty": "advanced"
+  },
+  {
+    "katakana": "エアコンディショナー",
+    "romaji": "eakondeishonaa",
+    "english": "air conditioner",
+    "difficulty": "advanced"
+  },
+  {
+    "katakana": "イリュージョン",
+    "romaji": "iryuujon",
+    "english": "illusion",
+    "difficulty": "advanced"
+  },
+  {
+    "katakana": "コミュニケーション",
+    "romaji": "komyunikeeshon",
+    "english": "communication",
+    "difficulty": "advanced"
+  },
+  {
+    "katakana": "インフォメーション",
+    "romaji": "infomeeshon",
+    "english": "information",
+    "difficulty": "advanced"
+  },
+  {
+    "katakana": "プレゼンテーション",
+    "romaji": "purezentee shon",
+    "english": "presentation",
+    "difficulty": "advanced"
+  },
+  {
+    "katakana": "インターネット",
+    "romaji": "intaanetto",
+    "english": "internet",
+    "difficulty": "advanced"
+  },
+  {
+    "katakana": "デモンストレーション",
+    "romaji": "demonsutoreeshon",
+    "english": "demonstration",
+    "difficulty": "advanced"
+  }
+]

@@ -1,0 +1,46 @@
+{% extends 'quiz/base.html' %} {% block title %} Katakana Learning Game -
+Homepage {% endblock %} {% block content %}
+<div class="home-container">
+  <h1>Katakana Learning Game</h1>
+  <p class="subtitle">
+    Test your ability to decipher Japanese words written in Katakana!
+  </p>
+
+  <div class="instructions">
+    <h2>How to Play</h2>
+    <ul>
+      <li>
+        You'll see a word written in
+        <a href="https://en.wikipedia.org/wiki/Katakana" target="_blank"
+          >Katakana</a
+        >
+        characters
+      </li>
+      <li>Type the English translation of the word</li>
+      <li>Get instant feedback on your answer</li>
+      <li>Progress through three difficulty levels</li>
+    </ul>
+  </div>
+
+  <div class="difficulty-selection">
+    <h2>Select difficulty level</h2>
+    <div class="difficulty-buttons">
+      <a href="{% url 'quiz:game' 'beginner' %}" class="btn btn-beginner">
+        <span class="level-name">Beginner</span>
+        <span class="level-description">Short, common words</span>
+      </a>
+      <a
+        href="{% url 'quiz:game' 'intermediate' %}"
+        class="btn btn-intermediate"
+      >
+        <span class="level-name">Intermediate</span>
+        <span class="level-description">Medium-length words</span>
+      </a>
+      <a href="{% url 'quiz:game' 'advanced' %}" class="btn btn-advanced">
+        <span class="level-name">Advanced</span>
+        <span class="level-description">Complex, longer words</span>
+      </a>
+    </div>
+  </div>
+</div>
+{% endblock %}

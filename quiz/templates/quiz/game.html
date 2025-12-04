@@ -1,0 +1,69 @@
+{% extends 'quiz/base.html' %}
+{% load static %}
+
+{% block title %}Katakana Game - {{ difficulty|title }}{% endblock %}
+
+{% block content %}
+<div class="game-container">
+    <div class="game-header">
+        <div class="difficulty-badge">{{ difficulty|title }}</div>
+        <a href="{% url 'quiz:home' %}" class="home-link">Home</a>
+    </div>
+
+    <div class="score-display">
+        <div class="score-item">
+            <span class="score-label">Correct:</span>
+            <span id="correct-count" class="score-value">0</span>
+        </div>
+        <div class="score-item">
+            <span class="score-label">Incorrect:</span>
+            <span id="incorrect-count" class="score-value">0</span>
+        </div>
+        <div class="score-item">
+            <span class="score-label">Progress:</span>
+            <span id="progress" class="score-value">0/0</span>
+        </div>
+    </div>
+
+    <div id="game-area" class="game-area">
+        <div id="loading" class="loading">Loading words...</div>
+
+        <div id="quiz-content" class="quiz-content" style="display: none;">
+            <div id="katakana-word" class="katakana-word"></div>
+
+            <form id="answer-form" class="answer-form">
+                <input
+                    type="text"
+                    id="answer-input"
+                    class="answer-input"
+                    placeholder="Type the English translation"
+                    autocomplete="off"
+                    autofocus
+                >
+                <button type="submit" class="submit-btn">Submit</button>
+            </form>
+
+            <div id="feedback" class="feedback"></div>
+        </div>
+
+        <div id="completion" class="completion" style="display: none;">
+            <h2 id="completion-title"></h2>
+            <div id="completion-message"></div>
+            <div class="completion-buttons">
+                <button id="next-level-btn" class="btn btn-primary" style="display: none;">Next Level</button>
+                <a href="{% url 'quiz:home' %}" class="btn btn-secondary">Back to Home</a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script src="{% static 'quiz/js/game.js' %}"></script>
+<script>
+    // Initialize the game with the current difficulty level
+    document.addEventListener('DOMContentLoaded', function() {
+        initGame('{{ difficulty }}');
+    });
+</script>
+{% endblock %}
